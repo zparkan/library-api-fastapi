@@ -24,7 +24,7 @@ There is no database: all data is stored in memory (a Python dictionary), so it 
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/library-api-fastapi.git
+git clone https://github.com/zparkan/library-api-fastapi.git
 cd library-api-fastapi
 
 python -m venv venv
@@ -137,7 +137,7 @@ Data lives in memory only. For persistence, a database (e.g. SQLite + SQLAlchemy
 </div>
 
 ```bash
-git clone https://github.com/<your-username>/library-api-fastapi.git
+git clone https://github.com/zparkan/library-api-fastapi.git
 cd library-api-fastapi
 
 python -m venv venv
